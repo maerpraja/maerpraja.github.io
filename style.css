@@ -257,7 +257,7 @@ form h1 {
 }
 
 #footer {
-    padding: 16px 128px;
+    padding: 15px 128px;
     background-color: green;
     display: flex;
     justify-content: space-between;
@@ -291,6 +291,10 @@ footer a {
 
 .instagram {
     padding: 10px 7px;
+}
+
+.logo {
+    width: 70px;
 }
 
 footer h1 {
